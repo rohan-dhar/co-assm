@@ -1,10 +1,3 @@
-'''
-	Computer Organization Project 1: Two-Pass Assembler
-	Group Members:
-		Rohan Dhar - 2019443
-		Shabeg Singh Gill - 2019388
-'''
-
 from time import gmtime, strftime
 from termcolor import colored, cprint
 
