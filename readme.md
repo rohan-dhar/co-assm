@@ -1,9 +1,7 @@
 
 # Two-Pass Assembler - Computer Organization (CSE 112) Project 1
 The following Python program (`assm.py`) implements a 12 Bit architecture, two-pass assembler for Computer Organization Project up to the specifications required.
-Team Members: 
-1. Rohan Dhar        - Roll No: 2019443
-2. Shabeg Singh Gill - Roll No: 20193
+
 
 ## Installation and Usage
 The assembler is built in Python 3.0. To run it, Python 3.0 or any newer variant of Python must be installed on the system.
